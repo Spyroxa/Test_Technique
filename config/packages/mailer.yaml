@@ -1,0 +1,3 @@
+framework:
+    mailer:
+        dsn: 'smtp://smtp.gmail.com:587?encryption=tls&auth_mode=login&username=clicketcollect.contact@gmail.com&password=click_et_collect1'

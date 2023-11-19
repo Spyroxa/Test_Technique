@@ -1,0 +1,145 @@
+body {
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: "Roboto", sans-serif;
+  }
+  img {
+    width: 15%;
+  }
+  .disp-f {
+    display: flex;
+  }
+  
+  .j-c-c {
+    justify-content: center;
+  }
+  
+  .al-c {
+    align-items: center;
+  }
+  
+  .f-d-c {
+    flex-direction: column;
+  }
+  
+  .f-w {
+    flex-wrap: wrap;
+  }
+  
+  .relative-p {
+    position: relative;
+  }
+  
+  .f-s-20px {
+    font-size: 20px;
+  }
+  
+  .w-100pc {
+    width: 100%;
+  }
+  
+  .w-50pc {
+    width: 50%;
+  }
+  
+  .w-90pc {
+    width: 90%;
+  }
+  
+  .w-250px {
+    width: 250px;
+  }
+  
+  .w-275px {
+    width: 275px;
+  }
+  
+  .h-100pc {
+    height: 100%;
+  }
+  
+  .h-100vh {
+    height: 100vh;
+  }
+  
+  .gap-20px {
+    gap: 20px;
+  }
+  
+  .home-p {
+    position: absolute;
+    right: 25px;
+    top: 25px;
+  }
+  
+  .bg-c-white {
+    background: rgba(255, 255, 255, 0);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9.9px);
+    -webkit-backdrop-filter: blur(9.9px);
+  }
+  
+  .card-s {
+    width: 85vw;
+    max-width: 1000px;
+    height: 700px;
+    border-radius: 30px;
+  }
+  
+  .btn-a {
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+    border: 0;
+    border-radius: 4px;
+    font-weight: 600;
+    width: 155px;
+    padding: 10px 0;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.2);
+    transition: 0.4s;
+    color: rgb(104, 85, 224);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(104, 85, 224);
+  }
+  
+  .btn-a:hover {
+    color: white;
+    width: none;
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.6);
+    background-color: rgb(104, 85, 224);
+  }
+  
+  .btn {
+    cursor: pointer;
+    border: 0;
+    border-radius: 4px;
+    font-weight: 600;
+    width: 135px;
+    padding: 10px 0;
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.2);
+    transition: 0.4s;
+    color: rgb(104, 85, 224);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(104, 85, 224);
+  }
+  
+  .btn:hover {
+    color: white;
+    width: none;
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.6);
+    background-color: rgb(104, 85, 224);
+  }
+  
+  .w-150px {
+    width: 150px;
+  }
+  
+  .w-175px {
+    width: 175px;
+  }
+  
+ 
