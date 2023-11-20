@@ -1,4 +1,4 @@
-# test_technique
+# test_technique Axel Le Bihan
 
 # Il faut :
 
